@@ -10,8 +10,6 @@ I'm currently deepening my knowledge in C# and .NET through a focused course and
 - 🌱 I’m currently sharpening my DevOps and database architecture skills.
 - 🤝 I love working in teams and value clear communication and reliability.
 - 💬 Ask me about C#, Blazor, MVC, or my journey in becoming a software developer.
-- 📫 Reach me at: bilalsayed188@gmail.com | +45 4273 7832
-- 🌍 Languages: Danish (native), English (fluent), Pashto (fluent), Urdu & German (basic)
 - ⚡ Fun fact: I’m the go-to tech helper among my friends and family — if something’s not working, I’m already fixing it!
 
 Thanks for stopping by!
