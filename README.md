@@ -9,6 +9,6 @@ I deepened my knowledge in C# and .NET through a focused course and side project
 - 🔧 I enjoy building structured, scalable applications especially with .NET
 - 🤝 I love working in teams and value clear communication and reliability.
 - 💬 Ask me about C#, or my journey in becoming a software developer.
-- ⚡ Fun fact: I’m the go-to tech helper among my friends and family — if something’s not working, I’m already fixing it!
+- ⚡ Fun fact: I’m the go-to tech helper among my friends and family if something’s not working, I’m already fixing it!
 
 Thanks for stopping by!
